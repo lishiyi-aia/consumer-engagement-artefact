@@ -4398,50 +4398,11 @@ tags: [客户协作, AI教育产品, 项目交付, 商业流程, AI应用]
 link: projects/ai-education-partnership/case_study.html
 ---
 
-<aside class="partnership-disclosure" aria-label="材料与保密说明">
-<strong>材料与保密说明</strong>
-<p>本项目展示材料均已脱敏处理。其余未公开信息因保密要求不作展示。</p>
-</aside>
+围绕高校及东南亚 AI 教育合作，衔接客户需求、试点反馈与团队交付。
 
-## 项目背景与目标
-
-在北京织知玄华智能科技有限公司担任商务助理实习生期间，参与高校及东南亚 AI 教育产品合作。客户需求、试用安排、产品支持和合作条件需要持续确认，外部反馈也需要交给对应团队处理。
-
-我的任务是衔接客户沟通与内部执行：把需求整理成资料和方案，将演示、试点中的反馈转为明确待办，跟进协议流转与项目交接。
-
-## 我的行动
-
-- **客户需求与关系跟进：**通过邮件及会议汇总需求，建立客户台账，记录沟通要点、待确认事项和下一步安排。
-- **试点准备与反馈闭环：**确认参会人员、演示账号和培训材料；会后整理纪要，明确负责人及完成时间，每周跟踪进展，协调产品团队处理使用问题。
-- **跨团队交付：**汇总客户反馈，同步产品、技术、业务与财务团队，将已确认信息更新到合作方案、协议及交接材料。
-- **商业流程核对：**核对中英文协议的主体信息、服务范围、双方分工及付款节点，跟进版本确认、审批、盖章与归档。
-
-## 工作路径
-
-需求登记 → 方案与演示准备 → 试点反馈与团队跟进 → 协议确认与项目交接
-
-## AI 辅助与 SOP
-
-针对客户跟进和资料准备中的重复工作，利用 AI 整理流程初稿，经人工核对后形成可复用的 SOP、检查清单与常用模板。
-
-| 环节 | 核对重点 | 沉淀产出 |
-| --- | --- | --- |
-| 客户登记 | 联系人、需求、待确认事项、下一步 | 客户台账模板 |
-| 资料准备 | 演示账号、培训材料、文件版本、附件 | 会前与发送检查清单 |
-| 反馈跟进 | 问题、负责人、完成时间、进展 | 会议纪要与跟进清单 |
-| 合同交接 | 主体、范围、分工、付款节点、审批 | 文件核对与交接模板 |
-
-完整案例提供可勾选的流程结构示意，展示如何把准备、确认和交接串成一套工作方法。
-
-## 工作材料与结果
-
-保留五份已脱敏材料，按时间展示信息同步、方案反馈、商务事项沟通、文件核对和整理；另展示正式签约仪式现场照片。文件发送记录仅用于说明沟通过程。
-
-- 合作范围与双方分工基本确认，合作文件完成审核与签署。
-- 完成后续交接，项目进入产品部署及市场准备阶段。
-- 高校演示与试点的反馈落实到负责人及待办清单，支持按计划推进；客户跟进与资料准备沉淀为 SOP、检查清单和模板。
-
-这段经历体现了从客户需求到团队响应、从资料准备到交付跟进的工作能力，也保留了对协议及付款节点的商业理解。
+- 整理客户需求和合作资料，维护台账，跟进试用与反馈。
+- 协调演示及培训准备，核对协议与付款节点，支持签署交接。
+- 利用 AI 梳理跟进流程，形成 SOP、检查清单和常用模板。
 `,gfe=`---
 title: AI 产品消费者洞察与跨渠道激活
 banner: works/covers/sohu-dashboard.png
@@ -4451,63 +4412,11 @@ tags: [消费者洞察, 分层触达, 微信生态, 内容营销, 转化分析, 
 link: projects/ai-news-dashboard/case_study.html
 ---
 
-## 从产品认知到首次使用
+围绕 YouNews 拉新与激活，将用户需求转为分阶段触达，并结合 AI 分析优化转化。
 
-YouNews 是面向资讯消费者的 AI 资讯追踪产品。用户需要先理解“为什么用”，再知道“怎么开始”。在搜狐 AI 产品运营实习期间，我围绕拉新与激活，整理用户反馈、开展价格问卷，将需求洞察转化为分阶段触达内容，并通过渠道推广、活动和数据复盘支持用户完成首次专题创建。
-
-**工作主线：** 消费者需求 → 分阶段触达 → 跨渠道推广与体验承接 → 注册及首次使用 → AI 辅助分析与后续优化。
-
-## 消费者洞察与分阶段触达
-
-整理用户反馈并开展需求与价格问卷，分析功能需求、付费意愿、价格接受度和使用障碍，按用户使用阶段安排内容。累计输出100+条公众号、小红书及社群内容，涵盖产品介绍、功能教程、行业案例与FAQ。
-
-完整项目提供可切换的**触达思路示例**，展示如何把用户阶段、问题、内容和渠道连接起来：
-
-- **初次了解：**用场景内容和产品介绍回答“对我有什么用”，通过小红书、公众号及活动传播引导了解产品。
-- **注册未使用：**用专题创建教程、FAQ及社群答疑回答“第一步怎么做”，观察首次专题创建及操作反馈。
-- **完成首次使用：**用日报、专题解读和反馈问卷说明持续使用的价值，收集后续阅读需求与体验问题。
-
-上述为基于现有物料整理的方法示意，不代表历史分群、自动化发送记录或新增业绩。
-
-## 跨渠道营销与体验承接
-
-**线上拉新：** 独立设计部分活动的主题、参与方式与用户引导流程，并制作宣传海报。产品上新与功能海报帮助用户了解产品；福利、社群与问卷物料分别用于引导体验、承接交流和收集反馈。
-
-**线下执行：** 参与科技活动的宣传准备、产品推广与现场执行，配合产品介绍、现场交流及活动内容采集，并参与线上直播传播。此处展示本人承担的工作，不代表独立主办整场活动。
-
-**策划考虑：** 海报要讲清产品价值和下一步，产品介绍之后接上功能说明、社群入口与体验反馈，让传播能够承接到实际使用。
-
-## 微信生态内容与达人合作
-
-独立完成相关内容在公众号、小红书及社群的发布与分发，根据渠道特点调整标题与文案：公众号完整讲解价值与步骤，小红书从场景切入，社群承接答疑和反馈。完整项目中的海报均由本人制作。
-
-围绕用户的资讯追踪需求，参与金融、AI领域博主筛选，整理报价和发布安排，跟进合作内容准备与上线。发布后记录阅读、互动及能够追踪的访问和注册情况，为后续合作选择提供参考。
-
-**我的判断：** 粉丝量不是唯一标准，更关注受众是否有持续追踪资讯的需求，以及内容能否讲清楚产品在什么情况下有用。
-
-## 内容对比测试
-
-针对渠道内容尝试不同的标题、封面及表达，记录阅读与互动表现，为后续选题和物料修改提供参考。完整项目中的对比版本为重新整理的示意，不代表历史投放截图或实验结果，不将不同时间的发布对比等同于随机分流实验。
-
-## AI 辅助分析与转化复盘
-
-运用 AI 辅助搭建轻量级运营分析看板，跟踪核心指标并定位用户路径中的流失节点。将渠道内容记录与能够追踪的产品数据结合，关注内容触达、产品访问、注册和首次专题创建；按投放效率优化渠道预算。对理解问题补充场景说明、教程与FAQ，对功能和操作问题整理后反馈产品团队，支持触达策略优化。
-
-项目中保留可操作的运营看板，可查看用户路径、分群、问卷与建议动作。当前内置模拟数据，展示分析方法，不作为实际业绩依据。
-
-**我的思考：** 内容带来关注之后，还要看用户能否完成第一次使用。注册增长和首次专题创建，需要结合起来判断。
-
-## 项目结果
-
-- 累计输出100+条公众号、小红书及社群内容。
-- 投放期新增注册较前一周提升50%。
-- 首次专题创建率相对提升约15%，不是增加15个百分点。
-
-上述增长为期间整体结果，不单独归因于某位达人、某篇内容或某次活动。
-
-## 展示说明
-
-项目结果按本人提供的实习期汇总整理，内部用户明细、达人身份及商务报价不公开。内容示意与工具演示不作为实际业绩依据。
+- 调研需求与付费意愿，输出100+条公众号、小红书及社群内容，参与达人推广。
+- 开展渠道内容测试，运用 AI 辅助搭建看板，定位用户路径中的流失节点。
+- 投放期新增注册较前一周提升50%，首次专题创建率相对提升约15%（期间整体结果）。
 `,vfe=`---
 title: ZUS Coffee 消费者洞察与新品传播
 banner: works/covers/zus-everywhere.jpg
@@ -4517,34 +4426,10 @@ tags: [消费者洞察, 零售营销, Instagram, 英文内容, 渠道协同]
 link: projects/zus-everywhere/case_study.html
 ---
 
-<aside class="zus-disclosure" aria-label="材料与数据说明">
-<strong>材料与数据说明</strong>
-<p>内部后台明细不公开；复盘示例用于说明工作思路，不代表历史数据或实验结果。</p>
-<p>产品资料图与账号截图仅展示产品及账号内容，不代表其中所有素材均由本人制作。</p>
-</aside>
+围绕 ZUS Coffee 新品推广，将消费者洞察转为英文内容，协同线上首发与零售渠道。
 
-## S · 项目背景
-
-ZUS Coffee 新品需要在 Instagram 讲清产品特点和消费场景，并配合线上首发及 FamilyMart 线下渠道传播。在海外新媒体运营实习期间，我参与前期调研、内容执行、渠道信息整理和发布后复盘。
-
-## T · 工作目标
-
-将用户偏好、互动反馈和竞品观察转化为内容选题与传播卖点；让消费者知道新品是什么、适合什么场景，以及在哪里了解或购买。
-
-## A · 消费者洞察与创意内容
-
-结合目标用户偏好、社媒反馈及竞品内容表现，整理消费者关注的问题和新品表达重点，为选题、拍摄和英文文案提供依据。参与完成50条 Instagram 内容发布，涉及拍摄、剪辑、英文文案、hashtag 与素材整理。
-
-## A · 线上线下协同与反馈复盘
-
-配合线上首发及 FamilyMart 线下传播，协助整理宣传素材、门店信息、购买入口和发布排期。每周跟踪内容表现，累计完成15+次复盘，根据互动反馈优化后续选题、内容形式与发布节奏。
-
-## R · 工作结果与岗位能力
-
-- 参与完成50条 Instagram 内容发布，连接消费者洞察与创意执行。
-- 累计完成15+次内容复盘，持续将反馈带回下一轮内容准备。
-- 项目期账号粉丝增长1.1w+，为账号整体结果，不作个人独立贡献归因。
-
-本案例体现零售消费场景理解、消费者洞察、英文内容执行和渠道协同能力。页面流程及复盘示例为工作方法整理，不替代原始后台记录；品牌资料图和账号截图保留原貌。
+- 分析用户偏好、社媒反馈及竞品内容，提炼新品传播卖点。
+- 参与选题、拍摄、剪辑与英文文案，协助发布50条 Instagram 内容。
+- 配合 FamilyMart 传播，完成15+次复盘，协同带动账号整体粉丝增长1.1w+。
 `,pP=Object.assign({"../content/works/ai-education-partnership.md":mfe,"../content/works/ai-news-dashboard.md":gfe,"../content/works/zus-everywhere.md":vfe});function Afe(t){const e=/^---\s*\n([\s\S]*?)\n---\s*\n?([\s\S]*)$/.exec(t);if(!e)return{data:{},body:t};const n={};for(const i of e[1].split(`
 `)){const r=/^([A-Za-z0-9_-]+)\s*:\s*(.*)$/.exec(i.trim());if(!r)continue;const s=r[2].trim();let a;s.startsWith("[")&&s.endsWith("]")?a=s.slice(1,-1).split(",").map(o=>o.trim().replace(/^['"]|['"]$/g,"")).filter(Boolean):a=s.replace(/^['"]|['"]$/g,""),n[r[1]]=a}return{data:n,body:e[2].trim()}}const k4={};for(const t in pP){const e=t.split("/").pop().replace(/\.md$/,""),{data:n,body:i}=Afe(pP[t]);k4[e]={slug:e,...n,body:i}}function yfe(t){return t&&k4[t]||null}const Efe=[.22,1,.36,1];function mP({item:t,onOpen:e,actionLabel:n}){const i=!!(t.slug||t.link),r=J.jsxs(J.Fragment,{children:[J.jsxs("span",{className:"wk-line-primary",children:[J.jsx("span",{className:"wk-line-name",children:t.name}),t.meta&&J.jsx("span",{className:"wk-line-num",children:t.meta})]}),i&&J.jsxs("span",{className:"wk-line-action",children:[n,J.jsx("span",{className:"wk-line-action-arrow","aria-hidden":"true",children:"↗"})]})]});return J.jsxs("li",{className:"wk-line",children:[i?J.jsx("button",{className:"wk-line-btn",onClick:()=>e(t),children:r}):J.jsx("span",{className:"wk-line-btn","aria-disabled":"true",children:r}),t.tags&&t.tags.length>0&&J.jsx("ul",{className:"wk-proof-list","aria-label":"项目证据",children:t.tags.map((s,a)=>J.jsxs("li",{children:[J.jsx("span",{children:String(a+1).padStart(2,"0")}),J.jsx("p",{children:s})]},s))})]})}function xfe({section:t,data:e,onOpen:n}){const[i,r]=Z.useState(!1),s=pfe[t.id];return J.jsxs("div",{className:"wk-card",children:[J.jsxs("div",{className:"wk-card-head",children:[J.jsx("span",{className:"wk-card-no",children:t.no}),J.jsx("h3",{className:"wk-card-title",children:t.title}),J.jsx("span",{className:"wk-card-tagline",children:t.tagline})]}),J.jsx("div",{className:"wk-card-cover",children:s&&!i?J.jsx("img",{src:s,alt:t.title,onError:()=>r(!0),onLoad:()=>r(!1),style:{objectFit:"cover"}}):J.jsx("div",{className:"wk-card-cover-ph","aria-hidden":"true",children:J.jsx("span",{className:"wk-card-cover-no",children:t.no})})}),J.jsx(Tfe,{section:t,data:e,onOpen:n})]})}function Tfe({section:t,data:e,onOpen:n}){return J.jsxs("div",{className:"wk-card-body",children:[t.items&&J.jsx("ul",{className:"wk-list",children:t.items.map((i,r)=>J.jsx(mP,{item:i,onOpen:n,actionLabel:e.visitLabel},r))}),t.groups&&t.groups.map((i,r)=>J.jsxs("div",{className:"wk-sub",children:[J.jsx("div",{className:"wk-sub-head",children:i.heading}),J.jsx("ul",{className:"wk-list",children:i.items.map((s,a)=>J.jsx(mP,{item:{name:s},onOpen:n,actionLabel:e.visitLabel},a))})]},r)),(t.awards||t.footer)&&J.jsxs("div",{className:"wk-foot",children:[t.awards&&J.jsxs("p",{className:"wk-foot-line",children:[J.jsx("span",{className:"wk-foot-label",children:e.awardsLabel}),J.jsx("span",{className:"wk-foot-val accent",children:t.awards.join("  ·  ")})]}),t.footer&&J.jsx("p",{className:"wk-foot-line",children:t.footer})]})]})}function _fe({item:t,data:e,onClose:n}){const[i,r]=Z.useState(!1),s=yfe(t.slug),a=s&&s.title||t.name,o=s&&s.banner,l=s?s.link||t.link:null,u=s?s.tags||t.tags:null,c=s?[t.meta,s.role].filter(Boolean).join("  ·  "):"";return J.jsxs(J.Fragment,{children:[J.jsx(ti.div,{className:"wk-detail-backdrop",initial:{opacity:0},animate:{opacity:1},exit:{opacity:0},transition:{duration:.3},onClick:n}),J.jsxs(ti.div,{className:"wk-detail",initial:{opacity:0,scale:.985,y:8},animate:{opacity:1,scale:1,y:0},exit:{opacity:0,scale:.99,y:6},transition:{duration:.42,ease:Efe},children:[J.jsx("div",{className:"wk-detail-toolbar",children:J.jsx("button",{type:"button",className:"wk-detail-close",onClick:n,"aria-label":e.closeLabel,title:e.closeLabel,children:"✕"})}),J.jsxs("div",{className:"wk-detail-scroll",children:[o&&!i?J.jsx("div",{className:"wk-detail-banner",children:J.jsx("img",{src:o,alt:a,onError:()=>r(!0)})}):J.jsx("div",{className:"wk-detail-banner is-ph","aria-hidden":"true",children:J.jsx("span",{className:"wk-detail-ph-text",children:a})}),J.jsxs("article",{className:"wk-detail-article",children:[J.jsxs("header",{className:"wk-detail-head",children:[J.jsx("h3",{className:"wk-detail-title",children:a}),c&&J.jsx("div",{className:"wk-detail-sub",children:c}),u&&u.length>0&&J.jsx("div",{className:"wk-detail-tags",children:u.map((h,p)=>J.jsx("span",{className:"wk-badge",children:h},p))})]}),s&&s.body?J.jsx("div",{className:"wk-md",children:J.jsx(zse,{remarkPlugins:[ele],rehypePlugins:[hfe],children:s.body})}):J.jsxs(J.Fragment,{children:[J.jsx("p",{className:"wk-detail-desc",children:e.detailPlaceholder}),J.jsx("div",{className:"wk-detail-ph-img","aria-hidden":"true",children:J.jsx("span",{className:"wk-detail-ph-img-label",children:e.phImageLabel})}),J.jsxs("span",{className:"wk-detail-link is-ph",role:"button","aria-disabled":"true",children:[e.phButtonLabel," ",J.jsx("span",{"aria-hidden":"true",children:"↗"})]})]}),l&&J.jsxs("a",{className:"wk-detail-link",href:l,target:"_blank",rel:"noopener noreferrer",children:[e.visitLabel," ",J.jsx("span",{"aria-hidden":"true",children:"↗"})]})]})]})]})]})}function Sfe({lang:t,innerRef:e}){const n=dfe[t],i=n.sections,r=i.length,[s,a]=Z.useState(null),o=Z.useRef(null),l=Z.useRef(null),{scrollYProgress:u}=eA({target:o,offset:["start start","end end"]}),[c,h]=Z.useState(0);Z.useEffect(()=>{const g=l.current;if(!g)return;const E=()=>h(Math.max(0,g.scrollWidth-window.innerWidth));E();const y=new ResizeObserver(E);return y.observe(g),window.addEventListener("resize",E),()=>{y.disconnect(),window.removeEventListener("resize",E)}},[r,t]);const p=vr(u,[0,1],[0,-c]),m=vr(u,[.85,1],[1,0]);return Z.useEffect(()=>{if(!s)return;const g=y=>y.key==="Escape"&&a(null);window.addEventListener("keydown",g);const E=document.body.style.overflow;return document.body.style.overflow="hidden",()=>{window.removeEventListener("keydown",g),document.body.style.overflow=E}},[s]),J.jsxs("section",{className:"works",id:"projects",lang:t,ref:e,children:[J.jsx("div",{className:"wk-gallery",ref:o,style:{height:`calc(100vh + ${c}px)`},children:J.jsxs("div",{className:"wk-gallery-sticky",children:[J.jsx("span",{className:"wk-gallery-title",children:n.title}),J.jsx(ti.div,{className:"wk-track",ref:l,style:{x:p},children:i.map(g=>J.jsx(xfe,{section:g,data:n,onOpen:a},g.id))}),J.jsx("div",{className:"wk-progress","aria-hidden":"true",children:J.jsx(ti.div,{className:"wk-progress-fill",style:{scaleX:u}})}),J.jsx(ti.span,{className:"wk-hint",style:{opacity:m},"aria-hidden":"true",children:n.hint})]})}),J.jsx(JX,{children:s&&J.jsx(_fe,{item:s,data:n,onClose:()=>a(null)},s.slug||s.name)})]})}function Cfe(){const{progress:t}=Zq(),[e,n]=Z.useState(!1),[i,r]=Z.useState(!1),[s,a]=Z.useState(!1),o=Z.useRef(0);if(o.current=Math.max(o.current,Math.min(Math.max(t,0),100)),Z.useEffect(()=>{t>=100&&n(!0)},[t]),Z.useEffect(()=>{if(!e)return;const h=setTimeout(()=>r(!0),400),p=setTimeout(()=>a(!0),1100);return()=>{clearTimeout(h),clearTimeout(p)}},[e]),s)return null;const l=34,u=2*Math.PI*l,c=u*(1-o.current/100);return J.jsx("div",{className:`loading-screen${i?" is-hidden":""}`,"aria-hidden":"true",children:J.jsx("div",{className:"loading-ring",children:J.jsxs("svg",{viewBox:"0 0 80 80",children:[J.jsx("circle",{className:"lr-track",cx:"40",cy:"40",r:l}),J.jsx("circle",{className:"lr-arc",cx:"40",cy:"40",r:l,style:{strokeDasharray:u,strokeDashoffset:c}})]})})})}const Mfe=c$(t=>({active:null,hovered:null,entered:!1,setActive:e=>t({active:e}),setHovered:e=>t({hovered:e}),enter:()=>t({entered:!0})}));function wfe(){const t=Mfe(e=>e.setActive);return J.jsxs("mesh",{position:[0,0,-40],onClick:()=>t(null),children:[J.jsx("planeGeometry",{args:[600,300]}),J.jsx("meshBasicMaterial",{transparent:!0,opacity:0,depthWrite:!1})]})}const bfe={en:{title:"About Shiyi",paragraphs:["Shiyi Li · Applying for Consumer Engagement Associate at Artefact. A 2027 Master of Marketing candidate with experience in AI product operations, consumer insights, data analysis and client collaboration. I connect audience needs, channel communication and feedback, using AI for dashboards and repeatable workflows."]},zh:{title:"About Shiyi",paragraphs:["李世怡｜Artefact 消费者营销顾问岗位申请。2027届市场营销硕士，英语可作为工作语言。以消费者洞察连接渠道触达与转化复盘，具备 AI 产品运营、数据分析及客户协作经验。"]}};function Ife({lang:t,cueOpacity:e}){const{title:n,paragraphs:i}=bfe[t],r=Z.useRef(null),{scrollYProgress:s}=eA({target:r,offset:["start start","end start"]}),a=vr(s,[0,.5],["blur(0px)","blur(16px)"]),o=vr(s,[0,.5],[1,0]),l=vr(s,[0,1],[0,-96]),u=vr(s,[0,1],[0,-52]),c=vr(s,[0,1],["0.01em","0.42em"]);return J.jsxs("section",{className:"hero",ref:r,children:[J.jsx(ti.div,{className:"about",lang:t,style:{filter:a,opacity:o},children:J.jsxs("div",{className:"about-intro",children:[J.jsx(ti.h1,{className:"about-title",style:{y:l,letterSpacing:c},children:n}),i.map((h,p)=>J.jsx(ti.p,{className:"about-body",style:{y:u},children:h},p)),J.jsxs("nav",{className:"hero-links","aria-label":t==="zh"?"作品集导航":"Portfolio navigation",children:[J.jsxs("a",{href:"#projects",children:[t==="zh"?"查看 3 个项目":"Explore 3 projects"," ",J.jsx("span",{"aria-hidden":"true",children:"↗"})]}),J.jsxs("a",{href:"#resume",children:[t==="zh"?"浏览履历":"View resume"," ",J.jsx("span",{"aria-hidden":"true",children:"↓"})]})]})]})}),J.jsx("div",{className:"scroll-cue-space","aria-hidden":"true"}),b3.createPortal(J.jsxs(ti.div,{className:"scroll-cue",style:{opacity:e},"aria-hidden":"true",children:[J.jsx("span",{className:"scroll-cue-label",children:t==="en"?"Scroll down · View projects":"向下滑动 · 查看项目"}),J.jsx("span",{className:"scroll-cue-arrow",children:"↓"})]}),document.body)]})}function Rfe(){const[t,e]=Z.useState("zh"),{scrollY:n}=eA(),i=Z.useRef(null),{scrollYProgress:r}=eA({target:i,offset:["start end","start center"]}),s=vr(r,[0,1],["rgba(8, 11, 18, 0)","rgba(8, 11, 18, 0.41)"]);vr(r,[0,1],["blur(0px)","blur(10px)"]);const a=vr(n,[0,520],[0,.4]),o=vr(n,[0,160],[1,0]);vr(n,[0,240],[1,0]);const l=typeof window<"u"?window.innerHeight:800,u=vr(n,[l*.5,l*1.1],[0,1]),c=vr(n,[0,280],[1,0]);return J.jsxs(J.Fragment,{children:[J.jsx(Cfe,{}),J.jsx("div",{className:"scene-bg",children:J.jsxs(QO,{shadows:{type:vp},dpr:[1,1.5],camera:{position:[0,5,19],fov:39,near:.1,far:500},gl:{antialias:!1,stencil:!1,depth:!0,toneMapping:SA},children:[J.jsx("color",{attach:"background",args:["#0a0e16"]}),J.jsxs(Z.Suspense,{fallback:null,children:[J.jsx(wfe,{}),J.jsx(tte,{})]})]})}),J.jsx(ti.div,{className:"scrim",style:{opacity:a},"aria-hidden":"true"}),J.jsx(ti.div,{className:"stage-fog",style:{background:s},"aria-hidden":"true"}),J.jsx(ti.div,{className:"glass-rail",style:{opacity:u},"aria-hidden":"true"}),J.jsxs(ti.div,{className:"hero-chrome",style:{opacity:c},"aria-hidden":"true",children:[J.jsx("div",{className:"hero-frame"}),J.jsx("span",{className:"hero-mark tl",children:"+"}),J.jsx("span",{className:"hero-mark tr",children:"+"}),J.jsx("span",{className:"hero-mark bl",children:"+"}),J.jsx("span",{className:"hero-mark br",children:"+"}),J.jsxs("div",{className:"hero-meta hm-tl",children:[J.jsx("span",{className:"hm-name",children:"Shiyi Li 李世怡"}),J.jsx("span",{children:"CONSUMER INSIGHTS · ENGAGEMENT · AI"})]}),J.jsx("div",{className:"hero-meta hm-tr",children:"2026"}),J.jsx("div",{className:"hero-meta hm-bl",children:"Insights · Activation · Client Collaboration"}),J.jsx("div",{className:"hero-meta hm-right",children:"Consumer Engagement Associate · Artefact"})]}),J.jsx(ate,{}),J.jsxs("main",{className:"content",children:[J.jsx(Ife,{lang:t,cueOpacity:o}),J.jsx(fte,{lang:t}),J.jsx(Sfe,{lang:t,innerRef:i})]})]})}I3(document.getElementById("root")).render(J.jsx(Rfe,{}));
